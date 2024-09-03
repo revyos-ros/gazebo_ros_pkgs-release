@@ -1,3 +1,32 @@
+## gazebo_ros_pkgs (jazzy) - 3.8.0-1
+
+The packages in the `gazebo_ros_pkgs` repository were released into the `jazzy` distro by running `/home/z572/gits/revyos-ros/venv/bin/bloom-release -r jazzy gazebo_ros_pkgs --override-release-repository-push-url git@github.com:revyos-ros/gazebo_ros_pkgs-release` on `Tue, 03 Sep 2024 14:29:19 -0000`
+
+The `gazebo_msgs` package was released.
+
+These packages were explicitly ignored:
+- `gazebo_dev`
+- `gazebo_plugins`
+- `gazebo_ros`
+- `gazebo_ros_pkgs`
+
+Version of package(s) in repository `gazebo_ros_pkgs`:
+
+- upstream repository: https://github.com/ros-simulation/gazebo_ros_pkgs
+- release repository: https://github.com/revyos-ros/gazebo_ros_pkgs-release.git
+- rosdistro version: `3.8.0-1`
+- old version: `null`
+- new version: `3.8.0-1`
+
+Versions of tools used:
+
+- bloom version: `0.12.0`
+- catkin_pkg version: `1.0.0`
+- rosdep version: `0.22.2`
+- rosdistro version: `0.9.0`
+- vcstools version: `0.1.42`
+
+
 ## gazebo_ros_pkgs (humble) - 3.7.0-3
 
 The packages in the `gazebo_ros_pkgs` repository were released into the `humble` distro by running `/usr/bin/bloom-release --override-release-repository-url=git@github.com:revyos-ros/gazebo_ros_pkgs-release.git -r humble gazebo_ros_pkgs` on `Mon, 06 May 2024 04:14:57 -0000`
