@@ -1,4 +1,4 @@
-release_repo_url: git@github.com:revyos-ros/gazebo_ros_pkgs-release
+release_repo_url: git@github.com:revyos-ros/gazebo_ros_pkgs-release.git
 tracks:
   crystal:
     actions:
